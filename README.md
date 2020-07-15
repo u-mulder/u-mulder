@@ -2,7 +2,7 @@
 
 <p>PHP\Symfony developer.</p> 
 
-Reach me on ![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fu_mulder)
+Reach me on [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fu_mulder)](https://twitter.com/u_mulder)
 
 <!--
 Here are some ideas to get you started:
