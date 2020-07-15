@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-PHP\Symfony developer.
+<p>PHP\Symfony developer.</p> 
 
-
-
+Reach me on ![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fu_mulder)
 
 <!--
 Here are some ideas to get you started:
@@ -13,6 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 Reach me: 
+- 📫 Reach me: https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fu_mulder
 - ⚡ Fun fact: ...
 -->
