@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<p>PHP\Symfony\Golang\Rust developer.</p> 
+<p>🤔 PHP\Symfony\Golang\Rust developer.</p> 
+
+- Sometimes helping with [ru-doc](https://github.com/php/doc-ru) for php
 
 [![z](https://github-readme-stats.vercel.app/api?username=u-mulder)](https://github.com/u-mulder)
 
