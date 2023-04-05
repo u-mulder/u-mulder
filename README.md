@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![GoLand](https://img.shields.io/badge/goland-143?style=for-the-badge&logo=goland&logoColor=white&color=black&labelColor=blue)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![phpUnit](https://img.shields.io/badge/phpunit-143?style=for-the-badge&logoColor=white&color=blue)
 
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
